@@ -6,3 +6,5 @@ flow start negotiation.flows.DemoFlow$Initiator id: A101, amount: 10, counterPar
 *Run vault querry
 
 run vaultQuery contractStateType: negotiation.states.ProposalState
+
+hello there
